@@ -41,8 +41,6 @@ I simply followed the trail. At first, I viewed the video, paused, tried things 
 | VP of Marketing           |   •List of all customer accounts based in Texas, North Carolina, Illinois, and New York that have either a rating of Hot or Warm or an annual revenue over $2 million.   |
 | CEO    |  •Ability to export and manipulate a report in spreadsheet software.   |
 
-All of my .xl
-
 ### Built with
 
 - Salesforce Hands-on Org also known as a Salesforce Playground
