@@ -29,7 +29,7 @@ I'm interested in learning Salesforce because it facilitates data management. My
 
 | <b>Reports</b> |
 |:--:|
-| [.xlsx Files](https://drive.google.com/drive/folders/1tA9Higmpa3hFb-GMN89WmGCzV4NNqC3b?usp=drive_link) |
+| [Exported .xlsx Report Files](https://drive.google.com/drive/folders/1tA9Higmpa3hFb-GMN89WmGCzV4NNqC3b?usp=drive_link) |
 
 ## My process
 
