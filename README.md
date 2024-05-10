@@ -1,6 +1,6 @@
 # Salesforce Reports and Dashboards Practice
 
-Descripton: This project is from the Salesforce Trailhead Curriculum. The title of the trail is *Create Reports and Dashboards for Sales and Marketing Managers*, and the learning objective is to learn to track key business information for your stakeholders with reports and dashboards.
+Descripton: This project is from the Salesforce Trailhead Curriculum. The title of the trail is *Create Reports and Dashboards for Sales and Marketing Managers*, and the objective is to learn to track key business information for your stakeholders with reports and dashboards.
 
 ## Table of contents
 
