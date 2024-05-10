@@ -23,7 +23,7 @@ I'm interested in learning Salesforce because it facilitates data management. My
 
 | <b>Dashboard</b>| 
 |:--:|
-| ![My Project Dashboard](https://github.com/Faraja17/salesforce-reports-and-dashboards-practice/blob/main/Global%20Sales%20Dashboard.png?raw=true) |
+| ![My Project Dashboard](https://raw.githubusercontent.com/Faraja17/salesforce-reports-and-dashboards-practice/main/Global%20Sales%20Dashboard.png) |
 
 ### Link
 
