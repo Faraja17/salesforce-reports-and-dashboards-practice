@@ -57,7 +57,7 @@ This is only the beginning in my Salesforce education. My goal is to learn more 
 
 ### Useful resources
 
-- [Trailhead](https://trailhead.salesforce.com/today) - This website contains a robust collection of free Salesforce learning resources, presented in easy to navigate formats. It also makes learning fun with it's gaming approach. including points, rankings, and badges.
+- [Trailhead](https://trailhead.salesforce.com/today) - This website contains a robust collection of free Salesforce learning resources presented in easy to navigate formats. It also makes learning fun with it's gaming approach. including points, rankings, and badges.
 
 ## Author
 
