@@ -64,7 +64,7 @@ This is only the beginning in my Salesforce education. My goal is to learn more 
 Faraja Thompson
 
 - [My Personal Website](https://faraja17.github.io/my-website/)
-- [My Blog: teach=>tech](https://hashnode.com/@faraja)
+- [My Blog: teach=>tech](https://teach2tech.hashnode.dev/)
 - [Faraja Thompson, M.Ed. on LinkedIn](https://www.linkedin.com/in/faraja-thompson-m-ed-70885b8/)
 
 ## Acknowledgments
