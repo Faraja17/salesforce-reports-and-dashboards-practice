@@ -49,11 +49,11 @@ I simply followed the trail. At first, I viewed the video, paused, tried things 
 
 I learned how Salesforce makes it easier for stakeholders such as department heads, VPs and CEOs to review organizational data with ease and efficiency. Through this project, I practiced harnessing the power of Report Builder to customize Salesforce objects and fields into meaningful information. Filter logic, various report types including matrix (pivot) tables, charts, and dashboards (used to create stories) can further segment data for highlighting the most important information. I learned that Salesforce can save the executive team a lot of time and energy in creating customized reports and dashboards. I also learned more about how to interpret the stakeholder reporting needs and translate them into effective reports and dashboards.
 
-I am learning that Systems Management via Salesforce/Service Now is a good fit for me. Both involve creativity, problem-solving, collaboration, and data analytics. Both would allow me to leverage my coding skills.
+I am learning that Systems Management via Salesforce/ServiceNow is a good fit for me. Both involve creativity, problem-solving, collaboration, and data analytics. Both would allow me to leverage my coding skills.
 
 ### Continued development
 
-This is only the beginning in my Salesforce education. My goal is to learn more about how to program, customize, and connect other organizational platforms to our Salesforce account. Eventually, I would like to become certified in both the Salesforce and Service Now platforms.
+This is only the beginning in my Salesforce education. My goal is to learn more about how to program, customize, and connect other organizational platforms to our Salesforce account. Eventually, I would like to become certified in both the Salesforce and ServiceNow platforms.
 
 ### Useful resources
 
